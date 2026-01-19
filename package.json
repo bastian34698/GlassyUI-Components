@@ -1,6 +1,6 @@
 {
   "name": "glassyui-components",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "GlassyUI: Elegant Glassmorphism Components for Modern UIs",
   "main": "src/index.ts",
   "scripts": {
